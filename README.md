@@ -20,9 +20,18 @@ To install, run:
 Code files:
 
 - simfeedfoward.py
-- simfeedback.py
+  
+This is the code for the simulation of the feedforward model, where orientation selective feedforward inputs from the primary visual cortex (V1) shape the receptive field of neurons in the latero-medial visual cortex (LM).
+
 - generateffRF.py
+
+This is the code for the generation of the receptive fields of LM neurons, based on the arrangement and orientation selectivity of the synapses
+  
 - processffmodelresults.py
+- simfeedback.py
+
+This is the code for the simulation of the feedback model, where orientation selective feedback inputs from the latero-medial visual cortex (LM) shape the feedback receptive field of neurons in the primary visual cortex (V1).
+
 - processfbmodelresults.py
 
 To run
