@@ -124,7 +124,7 @@ The code outputs 6 files per simulation run, in the folder **../generated_model_
 
 where k stands for index of trial run.
 
-Given enough simulations per setting and per somatic orientation (at least 10 per, **recommended 100**), or by utilizing the "provided" outputs by the relevant setting, you can run the analysis for the ratio of boutons in the 135 degree bowtie. To do so, execute in the **code** folder the following command:
+Given enough simulations per setting and per somatic orientation (at least 100 per), or by utilizing the "provided" outputs by the relevant setting, you can run the analysis for the ratio of boutons in the 135 degree bowtie. To do so, execute in the **code** folder the following command:
 
 `python processfbmodelresults.py -T <trials> -S <seed> -F <folder>`
 
