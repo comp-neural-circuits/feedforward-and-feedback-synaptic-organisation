@@ -1,5 +1,5 @@
 # Visual experience exerts an instructive role on cortical feedback inputs to primary visual cortex.
-by Rodrigo F. Dias, Radhika Rajan, Xinyun Zhang, Margarida Baeta, Nikos Malakasis, Julijana Gjorgjieva and Leopoldo Petreanu
+by Radhika Rajan, Rodrigo F. Dias, Xinyun Zhang, Margarida Baeta, Nikos Malakasis, Julijana Gjorgjieva and Leopoldo Petreanu
 
 ## Overview
 Code writen by Xinyun Zhang (xy.zhang@tum.de) and Nikos Malakasis (nikos.malakasis@tum.de).
