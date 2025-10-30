@@ -140,7 +140,11 @@ Given enough simulations per setting and per somatic orientation (at least 100 p
 
 The code outputs 1 file, in the folder **../generated_model_outputs/FB_model_outputs/** if "generated" or in the folder **../provided_model_outputs/FB_model_outputs/new_outputs/** if "provided". The generated files are:
 
-- "V1_FBRF_LM_bouton_ratio_in_135_deg_bowtie.png" -> Boxplots for the ratio of boutons in the 135 degree bowtie of all three groups, statistically compared.
+-"V1_FBRF_LM_bouton_ratio_in_135_deg_bowtie.png" -> Boxplots for the ratio of all boutons in the 135 degree bowtie of all three groups, statistically compared.
+-"V1_FBRF_LM_bouton_ratio_in_135_deg_bowtie_no_res.png" -> Boxplots for the ratio of non orientation responsive boutons in the 135 degree bowtie of all three groups, statistically compared.
+-"V1_FBRF_LM_bouton_ratio_in_135_deg_bowtie_res.png" -> Boxplots for the ratio of orientation responsive boutons in the 135 degree bowtie of all three groups, statistically compared.
+-"V1_FBRF_LM_deltafractions.png" ->Boxplots for the ratio of orientation responsive and non orientation responsive boutons in the 135 degree bowtie of all three groups
+-"V1_FBRF_LM_bouton_ratio_in_135_deg_bowtie_res_no_res.png" ->Boxplots for the ratio of orientation responsive and non orientation responsive boutons in the 135 degree bowtie of all three groups, with differences indicated.
 
 In the case of the "provided" option, use explicitly the following command:
 
